@@ -1,0 +1,5 @@
+downmix:
+  profile: is STAGING server
+  pack:
+    p1: hello
+    p2: world
